@@ -1,0 +1,10 @@
+vxt\dbconnect_sqlserver_crud\CrudController.class
+vxt\dbconnect_sqlserver_crud\App.class
+dbconnect\Model.class
+vxt\dbconnect_sqlserver_crud\PrimaryController.class
+dbconnect\ModelAdd.class
+vxt\dbconnect_sqlserver_crud\SecondaryController.class
+module-info.class
+vxt\dbconnect_sqlserver_crud\Crud_edit2Controller.class
+dbconnect\ModelRepository.class
+vxt\dbconnect_sqlserver_crud\CashierController.class
